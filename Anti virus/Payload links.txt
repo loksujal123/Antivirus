@@ -1,0 +1,2 @@
+1. https://github.com/Ha3MrX/Payload
+2. https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads
